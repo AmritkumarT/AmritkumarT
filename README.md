@@ -7,4 +7,4 @@
 - 💬 Ask me about Python, AI & ML.
 - 📫 How to reach me: https://www.linkedin.com/in/amritkumar-tupsoundarya-ab440a93/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I do Calisthenics | plays Badminton | Love Dogs | BeatBox | Dance sometimes.
+- ⚡ Fun fact: I do Calisthenics | play Badminton | Love Dogs | BeatBox | Dance sometimes.
