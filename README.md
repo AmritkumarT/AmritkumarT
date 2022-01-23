@@ -1,5 +1,3 @@
-AmritkumarT/README.md
-
 ### Hi there 👋
 
 🔭 I’m currently working on Artificial Intelligence and Machine Learning Algorithms
