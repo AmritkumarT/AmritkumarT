@@ -7,5 +7,5 @@
 - 💬 Ask me about Python, AI & ML...
 - 📫 How to reach me: https://www.linkedin.com/in/amritkumar-tupsoundarya-ab440a93/
 - 😄 Pronouns: He/Him
-- 🏸 Sports: I play Badminton | I'm a National Rifle Shooter.
+- 🏸 Sports: I play Badminton | I'm a National Shooter.
 - ⚡ Fun facts: I do Calisthenics | Love Dogs | BeatBox | Dance sometimes.
