@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Artificial Intelligence and Machine Learning Algorithms...
+🔭 I’m currently working on Artificial Intelligence and Machine Learning Algorithms.
 - 🌱 I’m currently learning Data Science...
 - 👯 I’m looking to collaborate on real time projects on Data Science
 - 🤔 I’m looking for help with Data Scientist
